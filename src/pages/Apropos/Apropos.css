@@ -1,0 +1,20 @@
+.menu{
+    width: 100%;
+  
+}
+.card{
+    width: 100%;
+    background-color: #ff6060;
+    flex-direction: column;
+    display: flex;
+    
+    margin-top: 2rem;
+}
+.header-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.card-content{
+    display: none;
+}

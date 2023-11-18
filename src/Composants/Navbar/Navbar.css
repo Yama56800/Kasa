@@ -1,0 +1,21 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    padding: 0 2rem;
+    color: #FF6060;
+    font-weight: 500;
+    gap: 2rem;
+    margin-right: auto;
+    margin-bottom: 3rem;
+    max-width: 70vw;
+
+}
+.navbar-logo{
+    margin-right: auto;
+}
+.link{
+    display: flex;
+    gap: 20px;
+    text-decoration: none;
+}

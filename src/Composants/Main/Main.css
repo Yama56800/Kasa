@@ -1,0 +1,12 @@
+.main{
+    /* border: solid 3px black; */
+    padding-inline: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width: 70vw;
+    margin: auto;
+
+    
+}

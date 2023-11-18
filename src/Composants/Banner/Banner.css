@@ -1,0 +1,13 @@
+.banner{
+    background-image: url(/public/assets/banner.png);
+    min-height: 150px;
+    width: 100%;
+    margin: auto;
+    border-radius: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-bottom: 2rem;
+}
+

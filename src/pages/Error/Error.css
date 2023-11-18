@@ -1,0 +1,30 @@
+.number{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18rem;
+    color: #ff6060;
+
+
+}
+.message{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    color: #ff6060;
+}
+.back-home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    color: #ff6060;
+    margin-top: 50px;
+    text-decoration: none;
+    
+    
+}
+a:visited{
+    color: #ff6060;
+}
